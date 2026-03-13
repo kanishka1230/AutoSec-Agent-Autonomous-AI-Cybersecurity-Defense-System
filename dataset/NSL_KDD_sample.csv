@@ -1,0 +1,17 @@
+AutoSec-Agent-Autonomous-AI-Cybersecurity-Defense-System
+│
+├── dataset
+│   └── NSL_KDD_sample.csv
+│
+├── notebook
+│   └── AutoSec_Agent.ipynb
+│
+├── src
+│   └── security_agent.py
+│
+├── presentation
+│   └── AutoSec_Agent_Presentation.pptx
+│
+├── requirements.txt
+│
+└── README.md
